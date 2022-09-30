@@ -1,2 +1,0 @@
-# bearsociety
-BearSociety.net
